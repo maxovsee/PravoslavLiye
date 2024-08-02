@@ -1,6 +1,6 @@
 {
-  "book": "Luke", // or "1 Corinthians", "2 Thessalonians", etc.
-  "chapter": 1, // chapter number
+  "book": "Luke", 
+  "chapter": 1, 
   "verses": [
     {
       "verse": 1,
@@ -10,6 +10,6 @@
       "verse": 2,
       "text": "Како преда́ша на́м Иоа́ннъ и Си́лванъ, и Ти́мофей, служи́тели Бо́жии..."
     },
-    ...
+  
   ]
 }
